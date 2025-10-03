@@ -2,7 +2,7 @@
 
 **Timeline:** Aug – Sept 2025  
 **Role:** Sole Developer  
-**Tech Stack:** Vuetify 2, MariaDB, Custom JavaScript Controllers, SSR (SEO Optimization)  
+**Tech Stack:** Vuetify 2, MariaDB, Node.js, with Server-Side Rendering (SSR) for SEO
 
 ---
 
